@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercncrypt",
+        "uuid": 6994044,
+        "checksum": "w89m0g"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
